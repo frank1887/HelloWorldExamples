@@ -1,3 +1,3 @@
 #!/usr/bin/ruby -w
 
-puts "Hello World"
+puts "Hello, World!"
